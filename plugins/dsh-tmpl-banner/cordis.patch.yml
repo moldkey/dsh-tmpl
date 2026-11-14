@@ -1,0 +1,4 @@
+# 模板工具：banner
+- insert:
+    - id: dsh-tmpl-banner
+      name: "dsh-tmpl-banner"

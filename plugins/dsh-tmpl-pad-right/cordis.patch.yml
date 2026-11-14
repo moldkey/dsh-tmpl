@@ -1,0 +1,4 @@
+# 模板工具：pad right
+- insert:
+    - id: dsh-tmpl-pad-right
+      name: "dsh-tmpl-pad-right"

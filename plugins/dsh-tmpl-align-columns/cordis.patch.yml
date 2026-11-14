@@ -1,0 +1,4 @@
+# 模板工具：align columns
+- insert:
+    - id: dsh-tmpl-align-columns
+      name: "dsh-tmpl-align-columns"

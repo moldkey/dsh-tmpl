@@ -1,0 +1,16 @@
+{
+  "name": "dsh-tmpl-tmpl-missing",
+  "version": "0.1.0",
+  "description": "tmpl missing",
+  "type": "module",
+  "main": "lib/index.js",
+  "files": ["lib", "cordis.patch.yml", "README.md"],
+  "keywords": ["dsh", "dsh-plugin", "template", "模板", "格式化", "tmpl_missing"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moldkey/dsh-plugins.git"
+  },
+  "dsh": { "bundle": { "patch": "./cordis.patch.yml" } },
+  "engines": { "dsh": ">=0.2.0-rc.2" }
+}
